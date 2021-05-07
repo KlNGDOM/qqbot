@@ -1,0 +1,1 @@
+def jf(x):return x*x*x
